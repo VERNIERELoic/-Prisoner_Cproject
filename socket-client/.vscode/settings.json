@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "functional": "c",
+        "bit": "cpp",
+        "*.tcc": "cpp",
+        "compare": "cpp",
+        "exception": "cpp",
+        "algorithm": "cpp",
+        "iterator": "cpp",
+        "memory": "cpp",
+        "limits": "cpp",
+        "numeric": "cpp",
+        "streambuf": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp"
+    }
+}
